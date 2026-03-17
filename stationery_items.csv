@@ -1,0 +1,11 @@
+S.no,CustomerName,Item,Quantity,SellingPrice,CostPrice,Total,Profit
+1,Alice Johnson,Notebook,120,50,38,6000,12
+2,Bob Smith,Pen,300,10,6,3000,4
+3,Carol Lee,Pencil,250,5,3,1250,2
+4,David Kim,Eraser,180,4,2,720,2
+5,Eva Brown,Sharpener,140,6,4,840,2
+6,Frank Green,Scale,100,12,8,1200,4
+7,Grace Hall,Marker,90,25,18,2250,7
+8,Henry Young,Glue Stick,75,30,22,2250,8
+9,Ivy Zhao,Crayon Box,60,55,42,3300,13
+10,Jack Turner,A4 Paper Pack,80,120,95,9600,25
